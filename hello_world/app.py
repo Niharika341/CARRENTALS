@@ -4,8 +4,7 @@ import json
 
 
 def lambda_handler(event, context):
-    input=event
-    print(event)
+    print("i am ok")
     """Sample pure Lambda function
 
     Parameters
